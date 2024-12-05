@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'petshop',
         'USER':'postgres',
-        'PASSWORD':'AVPKNaidu9699',
+        'PASSWORD':'********',
         'HOST':'localhost',
         'PORT':'5432'
     }
@@ -134,5 +134,5 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'praveenkumarnaidu88@gmail.com'
+EMAIL_HOST_USER = 'praveen********@gmail.com'
 #EMAIL_HOST_PASSWORD = 'rwoq pzah yzzl sleg'
